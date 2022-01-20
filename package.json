@@ -1,0 +1,24 @@
+{
+  "name": "Tech-Product-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js", 
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecrume/tech-product-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jecrume/tech-product-API/issues"
+  },
+  "homepage": "https://github.com/jecrume/tech-product-API#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
